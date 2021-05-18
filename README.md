@@ -3,6 +3,8 @@ This s very simple plugin, a broadcast when a person join or left the server
 
 is for exiled 2.8 but it work with EXILED 2.10 i don't know why
 
+Is not work in WaitAndChill pre lobby, i try to fix it in the next day
+
 # Config
 ```
 Join_AndLeftMessage:
